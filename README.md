@@ -32,3 +32,7 @@ var threshold = 100.00 //提现阈值，单位：元
 ```
 
 加入crontab前建议先手动执行一遍，错误信息会直接输出并且保存在`AutoTomatoPay.log`中
+
+## 鸣谢
+
+[regendsoh](https://github.com/regendsoh)的帮助与贡献
